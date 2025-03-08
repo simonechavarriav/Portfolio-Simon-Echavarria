@@ -9,4 +9,4 @@ Download the folder called portafolio and open it in a code editor, then right c
 
 ## URL to live portfolio (Netlify):
 
-[sev-portfolio.netlify.app](sev-portfolio.netlify.app)
+[sev-portfolio.netlify.app](https://sev-portfolio.netlify.app/))
