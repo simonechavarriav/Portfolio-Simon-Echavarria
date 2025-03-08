@@ -404,6 +404,11 @@ nav ul li a:hover {
 .contactForm button:hover {
     background-color: #081C15;
 }
+#messageSent {
+    color:#95D5B2;
+    font-size: 16px;
+    margin-top: 20px;
+}
 
 @media (max-width: 1024px) {
     .skills, .educationBg, .experienceBg {
