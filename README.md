@@ -1,4 +1,4 @@
-# Portafolio
+# Portfolio
 This is my portfolio, it is built using html, css, and JavaScript for submission of the form and storing the info in a google sheet (Link below)
 https://docs.google.com/spreadsheets/d/1LrifVttBAyswB51Pom0y_qxRkY_aUrnvxZwyHzl6yPs/edit?usp=sharing (This is the link to try out the form submission functionality)
 
