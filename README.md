@@ -8,4 +8,5 @@ Instructions to run locally:
 Download the folder called portfolio and open it in a code editor, then right click on the file index.html and run it
 
 URL to live portfolio (Netlify):
+
 sev-portfolio.netlify.app
