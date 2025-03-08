@@ -7,4 +7,5 @@ I also created folders to upload the source code for two of the projects that I 
 Instructions to run locally:
 Download the folder called portfolio and open it in a code editor, then right click on the file index.html and run it
 
-URL to live portfolio (Github pages):
+URL to live portfolio (Netlify):
+sev-portfolio.netlify.app 
